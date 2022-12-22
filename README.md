@@ -41,8 +41,8 @@ Değişkenler, bir program sırasında değerlerinin değiştirilebileceği adla
             string str3;
 
             string strName = "batuhan";
-            string name = "Ömürcan";
-            string surname = "Uslu";
+            string name = "batuhan";
+            string surname = "kayahan";
             string fullname = name + " " + surname;
 
             Console.WriteLine(strName);
@@ -54,7 +54,7 @@ Değişkenler, bir program sırasında değerlerinin değiştirilebileceği adla
             int in3 = int1 * int2;
 
         
-            bool b1 = 10 > 2;//True değer döndürür.
+            bool b1 = 10 > 2;
 
             //  Değişken Dönüşümleri 
 
